@@ -1,0 +1,14 @@
+# Target labels
+ sodium-populate
+# Source files and their labels
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate-complete.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-build.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-configure.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-download.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-install.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-mkdir.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-patch.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-test.rule
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-update.rule

@@ -1,0 +1,3 @@
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate.dir
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/edit_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/rebuild_cache.dir

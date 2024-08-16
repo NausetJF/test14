@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sodium.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

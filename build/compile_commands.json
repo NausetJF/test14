@@ -1,0 +1,650 @@
+[
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/test14.dir/color.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/src/color.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/src/color.c",
+  "output": "src/CMakeFiles/test14.dir/color.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -isystem /opt/homebrew/Cellar/raylib/5.0/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -I/opt/homebrew/Cellar/raylib/5.0/include -o CMakeFiles/test14.dir/main.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/src/main.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/src/main.c",
+  "output": "src/CMakeFiles/test14.dir/main.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/aes256gcm/aesni/aead_aes256gcm_aesni.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/aes256gcm/aesni/aead_aes256gcm_aesni.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/aes256gcm/aesni/aead_aes256gcm_aesni.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/aes256gcm/aesni/aead_aes256gcm_aesni.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/chacha20poly1305/sodium/aead_chacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_aead/xchacha20poly1305/sodium/aead_xchacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/crypto_auth.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/crypto_auth.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/crypto_auth.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/crypto_auth.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha256/auth_hmacsha256.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512/auth_hmacsha512.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_auth/hmacsha512256/auth_hmacsha512256.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_easy.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_easy.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_easy.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_easy.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_seal.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_seal.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/crypto_box_seal.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/crypto_box_seal.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xsalsa20poly1305/box_curve25519xsalsa20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/ref10/ed25519_ref10.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/core_hsalsa20.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/hsalsa20/ref2/core_hsalsa20_ref2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/salsa/ref/core_salsa_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/generichash_blake2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-avx2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-sse41.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-compress-ssse3.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/blake2b-ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/blake2b/ref/generichash_blake2b.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_generichash/crypto_generichash.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/crypto_hash.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/crypto_hash.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/crypto_hash.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/crypto_hash.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/cp/hash_sha256_cp.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha256/hash_sha256.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/cp/hash_sha512_cp.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_hash/sha512/hash_sha512.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/blake2b/kdf_blake2b.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kdf/crypto_kdf.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kx/crypto_kx.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kx/crypto_kx.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_kx/crypto_kx.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_kx/crypto_kx.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/crypto_onetimeauth.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/donna/poly1305_donna.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/onetimeauth_poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_onetimeauth/poly1305/sse2/poly1305_sse2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-core.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-encoding.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-avx512f.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2-fill-block-ssse3.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/argon2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/blake2b-long.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2i.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/argon2/pwhash_argon2id.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/crypto_pwhash.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/crypto_scalarmult.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/ref10/x25519_ref10.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/curve25519_sandy2x.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe51_invert.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/sandy2x/fe_frombytes_sandy2x.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/curve25519/scalarmult_curve25519.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/crypto_secretbox_easy.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xsalsa20poly1305/secretbox_xsalsa20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretstream/xchacha20poly1305/secretstream_xchacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/crypto_shorthash.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphash24_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphash24.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/crypto_sign.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/crypto_sign.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/crypto_sign.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/crypto_sign.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/keypair.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/open.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/sign.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/sign_ed25519.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-avx2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/dolbeau/chacha20_dolbeau-ssse3.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/ref/chacha20_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/chacha20/stream_chacha20.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/crypto_stream.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/crypto_stream.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/crypto_stream.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/crypto_stream.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/ref/salsa20_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/stream_salsa20.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6/salsa20_xmm6.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa20/xmm6int/salsa20_xmm6int-sse2.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xsalsa20/stream_xsalsa20.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_verify/sodium/verify.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_verify/sodium/verify.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_verify/sodium/verify.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_verify/sodium/verify.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/internal/randombytes_internal_random.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/randombytes.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/randombytes.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/randombytes.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/randombytes.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/randombytes/sysrandom/randombytes_sysrandom.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/codecs.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/codecs.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/codecs.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/codecs.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/core.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/core.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/core.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/core.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/runtime.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/runtime.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/runtime.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/runtime.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/utils.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/utils.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/utils.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/utils.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/version.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/version.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/sodium/version.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/sodium/version.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_curve25519xchacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_box/curve25519xchacha20poly1305/box_seal_curve25519xchacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ed25519.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_core/ed25519/core_ristretto255.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/crypto_scrypt-common.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/nosse/pwhash_scryptsalsa208sha256_nosse.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pbkdf2-sha256.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/pwhash_scryptsalsa208sha256.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/scrypt_platform.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_pwhash/scryptsalsa208sha256/sse/pwhash_scryptsalsa208sha256_sse.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ed25519/ref10/scalarmult_ed25519_ref10.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_scalarmult/ristretto255/ref10/scalarmult_ristretto255_ref10.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_secretbox/xchacha20poly1305/secretbox_xchacha20poly1305.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/ref/shorthash_siphashx24_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_shorthash/siphash24/shorthash_siphashx24.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_sign/ed25519/ref10/obsolete.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/ref/stream_salsa2012_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa2012/stream_salsa2012.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/ref/stream_salsa208_ref.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/salsa208/stream_salsa208.c.o"
+},
+{
+  "directory": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DCONFIGURED -DSODIUM_STATIC -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include -I/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/include/sodium -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c.o -c /Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c",
+  "file": "/Users/nausetjf/CodeFiles/raylib/test14/build/_deps/sodium-src/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c",
+  "output": "_deps/sodium-build/CMakeFiles/sodium.dir/libsodium/src/libsodium/crypto_stream/xchacha20/stream_xchacha20.c.o"
+}
+]

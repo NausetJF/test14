@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/CMakeFiles/sodium-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-build.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-download.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-install.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-test.rule"
+		},
+		{
+			"file" : "/Users/nausetjf/CodeFiles/raylib/test14/cmake-build-Release/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sodium-populate"
+		],
+		"name" : "sodium-populate"
+	}
+}

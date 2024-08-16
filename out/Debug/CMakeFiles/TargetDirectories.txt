@@ -1,0 +1,8 @@
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/CMakeFiles/edit_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/CMakeFiles/rebuild_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/src/CMakeFiles/test14.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/src/CMakeFiles/edit_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/src/CMakeFiles/rebuild_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/_deps/sodium-build/CMakeFiles/sodium.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/_deps/sodium-build/CMakeFiles/edit_cache.dir
+/Users/nausetjf/CodeFiles/raylib/test14/out/Debug/_deps/sodium-build/CMakeFiles/rebuild_cache.dir
